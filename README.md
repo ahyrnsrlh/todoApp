@@ -1,8 +1,5 @@
 # Todo App
-<<<<<<< HEAD
 
-=======
->>>>>>> d979954fba282137e37b892ed4a389dff95f6bf6
 Aplikasi Todo List sederhana yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) lengkap dengan otentikasi pengguna.
 
 ## Fitur
