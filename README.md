@@ -1,4 +1,4 @@
-# CRUD Sederhana
+# Todo App
 
 Aplikasi Todo List sederhana yang dibangun dengan Next.js, Tailwind CSS, dan Supabase. Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) lengkap dengan otentikasi pengguna.
 
@@ -33,8 +33,8 @@ Aplikasi Todo List sederhana yang dibangun dengan Next.js, Tailwind CSS, dan Sup
 1. Clone repositori
 
 ```bash
-git clone https://github.com/ahyrnsrlh/crud_sederhana.git
-cd crud_sederhana
+git clone https://github.com/ahyrnsrlh/todoApp.git
+cd todoApp
 ```
 
 2. Install dependencies
@@ -184,14 +184,6 @@ Setelah aplikasi di-deploy ke Vercel, Anda perlu:
 4. Tandai todo selesai dengan mengklik checkbox
 5. Hapus todo dengan mengklik tombol "Delete"
 6. Logout dari aplikasi menggunakan tombol di pojok kanan atas
-
-## Fitur yang Dapat Dikembangkan
-
-- Menambahkan fitur kategori/tag untuk todo
-- Implementasi pencarian dan filter
-- Dark mode
-- Notifikasi deadline/reminder
-- Penambahan fitur share todo dengan pengguna lain
 
 ## Lisensi
 
